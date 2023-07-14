@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently Senior student at FPT University HCM
+- Contact:
+  - :email: dinhhoanglam2801118@gmail.com
+  - ![Linkedin](https://i.stack.imgur.com/gVE0j.png) [Dinh Hoang Lam](https://www.linkedin.com/in/hoang-lam-dinh-901193191/)
